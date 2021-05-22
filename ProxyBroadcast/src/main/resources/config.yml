@@ -1,0 +1,15 @@
+# ProxyBroadcast Settings
+
+# Broadcast Prefix - If you want a gap between the prefix and the message let a space at the end of the prefix
+
+prefix: "§bBroadcast §f» "
+
+# Message you get when you send out a broadcast
+
+send-succes: "§aThe message has been sent to all players."
+
+# Command Settings
+
+cmd-permission: "broadcast.command"
+cmd-description: "Broadcast a message to all players"
+cmd-usage: "/broadcast Message"
