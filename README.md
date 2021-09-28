@@ -15,7 +15,7 @@ You can easily change the Plugin Settings in the Config:
 
 **How to get the Plugin:**
 
-1. Download the plugin from here.
+1. Download the plugin from https://github.com/VazziDE/ProxyBroadcast/blob/main/ProxyBroadcast.jar.
 2. Drag the ProxyBroadcast.jar File into your plugin directory on the proxy.
 3. Start the Proxy.
 4. Edit the config as you like.
